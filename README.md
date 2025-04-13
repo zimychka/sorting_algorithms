@@ -26,4 +26,5 @@ Based on the collected data, conclusions are drawn about the most appropriate so
 
 # Application
 
-![arch](https://github.com/user-attachments/assets/d3cad695-20bf-4127-8bc7-2764e571730c)
+![arch](https://github.com/user-attachments/assets/b12fba1c-a32d-436d-a2e0-15b581b80d1f)
+
